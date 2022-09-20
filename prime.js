@@ -6,7 +6,7 @@ function checkprime(num){
 
         if(num%p===0){
 
-            count--;
+            count++;
         }
     }
     if(count===2){
